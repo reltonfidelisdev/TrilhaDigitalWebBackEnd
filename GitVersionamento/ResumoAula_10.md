@@ -8,4 +8,4 @@ Caso isso ocorra, o retorno do comando será algo paracedo com o exemplo abaixo:
 CONFLICT (content): Merge conflict in GitVersionamento/ResumoAula_09.md
 Automatic merge failed; fix conflicts and then commit the result.
 
-O programador deve inpecionar o arquivo e decidir sobre conteúdo que vai manter antes de fazer o merge
+O programador deve inpecionar o arquivo e decidir sobre conteúdo que vai manter antes de fazer o merge.
