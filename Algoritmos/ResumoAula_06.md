@@ -26,4 +26,18 @@ INICIO principal
     FIM ENQUANTO
 
     MOSTAR listaNumeros
+
+    PARA CADA item EM listaNumeros
+        SE (RESTO(DIVISAO(item, 2)) IGUAL a 0)
+            MOATRAR "Numero", item , " é par"
+        SENAO
+            MOATRAR "Numero", item , " é ímpar"
+        FIM SE
+    FIM PARA
 FIM
+
+> Quando precisamos acessar o valor de um item da lista, normalmente referenciamos com o nome da variável,
+seguido de colchetes.
+>> Quando falamos na estrutura da lista, precisamos entender que os índices sempre começam em 0 e não em 1;
+>>> listaNumeros[0] representa a primeita posição da lista, listNumeros[19] a última.
+>>>> Com isso temos que a 10ª posição da lista é listNumeros[9]
