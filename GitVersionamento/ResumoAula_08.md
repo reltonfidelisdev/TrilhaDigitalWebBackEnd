@@ -1,6 +1,6 @@
 # 08. GitHub
 
-Como programadores, devemos ser capaz de diferenciar tecnologias como Git e GitHub.
+Como programadores, devemos ser capazes de diferenciar tecnologias como Git e GitHub.
 Essas palavars parecem sinônimos mas não são!
 GitHub é a maior plataforma de hospedagem de código já ciada que usa o Git com interface web.
 Através do GitHub você pode navegar entre milhares de projetos de código aberto,
