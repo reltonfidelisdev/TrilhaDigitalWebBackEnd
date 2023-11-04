@@ -3,7 +3,7 @@
 Os estados possíveis de um arquivo dentro de um repositório Git:
 ## Estados do Git
 * Untracked:
-O arquivo ainda não está sendo versionado
+O arquivo ainda não está sendo versionado.
 * Unmodified:
 O arquivo foi adicionado ao versionamento mas não houve nenhuma modificação desde a última alteração.
 * Modified:
