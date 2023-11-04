@@ -2,7 +2,7 @@
 Como falado, fazer um merge, é juntar ramificações ou branches.
 Estando eu na branch "main"
 Para unir o conteúdo da branch testing usamos o comado git merge testing.
-Neste momento podem haver conflitos, por exemplo, doua pessoas alteraram a mesma linha do mesmo arquivo.
+Neste momento podem haver conflitos, por exemplo, duas pessoas alteraram a mesma linha do mesmo arquivo.
 Caso isso ocorra, o retorno do comando será algo paracedo com o exemplo abaixo:
 > git merge testing
 CONFLICT (content): Merge conflict in GitVersionamento/ResumoAula_09.md
