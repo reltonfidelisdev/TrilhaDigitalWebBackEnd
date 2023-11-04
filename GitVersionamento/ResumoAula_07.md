@@ -39,3 +39,12 @@ Isso significa que, se o arquivo remoto têm uma linha de código e o local têm
 ## Comando git fetch
 O comango git fetch é usado para trazer apenas as modificações do repositório remoto 
 para local, sem sobrescrever as mudanças para que posamos ver e decidir antes de savar.
+git fetch
+* Retorno do comendo:
+remote: Enumerating objects: 7, done.
+remote: Counting objects: 100% (7/7), done.
+remote: Compressing objects: 100% (4/4), done.
+remote: Total 4 (delta 3), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (4/4), 894 bytes | 7.00 KiB/s, done.
+From https://github.com/reltonfidelisdev/TrilhaDigitalWebBackEnd
+   e455bb6..973b98b  main       -> origin/main
