@@ -6,9 +6,9 @@ Para utilizar um repositório remoto devemos primeiro clonar ele na nossa máqui
 No GitHub podemos clonar um repositótio de algumas formas, através do comando:
 git clone 
 * Usando HTTPS (Mais utilizado)
-Ex: https://github.com/reltonfidelisdev/TrilhaDigitalWebBackEnd.git
+Ex: git clone https://github.com/reltonfidelisdev/TrilhaDigitalWebBackEnd.git
 * Usando SSH
-Ex: git@github.com:reltonfidelisdev/TrilhaDigitalWebBackEnd.git
+Ex: git clone git@github.com:reltonfidelisdev/TrilhaDigitalWebBackEnd.git
 * Usando GitHub CLI
 Ex: gh repo clone reltonfidelisdev/TrilhaDigitalWebBackEnd
 
