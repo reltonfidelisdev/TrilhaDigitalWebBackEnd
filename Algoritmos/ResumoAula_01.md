@@ -18,9 +18,9 @@ Devemos pensar em algoritmos como uma sequência de passos estruturados de forma
 * 8 Aguardar o tempo de cozimento
 * 9 Aguardar esfriar
 * 10 Servir o bolo
-...
-A chance do bolo dar certo é praticamento 100% se você seguir a receita.
-...
+
+> A chance do bolo dar certo é praticamento 100% se você seguir a receita.
+
 Mas e se...
 Não houver um forno disponível?
 E se não houver o chocolate da receita na dispensa?
