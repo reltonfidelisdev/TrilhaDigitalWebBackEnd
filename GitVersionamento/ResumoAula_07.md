@@ -48,3 +48,8 @@ remote: Total 4 (delta 3), reused 0 (delta 0), pack-reused 0
 Unpacking objects: 100% (4/4), 894 bytes | 7.00 KiB/s, done.
 From https://github.com/reltonfidelisdev/TrilhaDigitalWebBackEnd
    e455bb6..973b98b  main       -> origin/main
+
+## Comando git diff
+O comando "git fetch" baixa as mudanças do repositório remoto.
+O comando git diff é usado quando queremos verificar as mudanças entre arquivos.
+O comando "git diff origin main" compara as mudanças entre o mesmo arquivo local e o remoto.
