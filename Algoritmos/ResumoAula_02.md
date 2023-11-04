@@ -26,3 +26,6 @@ Imprima "Olá, " + nomePessoa; <- Saída para o monitor // Olá, Relton Lima
 * Juntar o nome da pessoa ao texto "Olá, + NomeDaPessoa"
 * Mostrar a frase montada
 > final
+
+## Teste de uso
+# Comando                 #Saida na tela               # Armazenamento
