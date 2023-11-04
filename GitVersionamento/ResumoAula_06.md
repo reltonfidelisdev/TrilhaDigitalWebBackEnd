@@ -22,8 +22,3 @@ Exemplo:
 git restore --staged .\caminho\do\arquivo\ResumoAula_06.md
 * Para remover uma alteração na área do modified
 git restore .\caminho\do\arquivo\ResumoAula_06.md
-<<<<<<< HEAD
-
-Removido isso
-=======
->>>>>>> ba760e5a56a444ccd9cedd045a2404307c3e626a
