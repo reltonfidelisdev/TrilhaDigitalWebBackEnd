@@ -28,3 +28,5 @@ Total 8 (delta 4), reused 0 (delta 0), pack-reused 0
 remote: Resolving deltas: 100% (4/4), completed with 2 local objects.
 To https://github.com/reltonfidelisdev/TrilhaDigitalWebBackEnd.git
    e8caf3a..1c59233  main -> main
+
+## Comando git pull
