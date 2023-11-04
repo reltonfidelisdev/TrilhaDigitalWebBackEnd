@@ -35,3 +35,7 @@ para nossa máquina, sobrescrevendo o estado atual.
 Isso significa que, se o arquivo remoto têm uma linha de código e o local têm
 100 linhas, o remoto vai sobrascrever o local, deixando-o com apenas uma linha.
 ### Por isso devemos ter cautela ao utilizar este comando.
+
+## Comando git fetch
+O comango git fetch é usado para trazer apenas as modificações do repositório remoto 
+para local, sem sobrescrever as mudanças para que posamos ver e decidir antes de savar.
