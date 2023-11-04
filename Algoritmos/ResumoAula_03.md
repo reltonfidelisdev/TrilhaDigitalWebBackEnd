@@ -8,3 +8,16 @@ O computador costuma separa os tipos numéricos em dois tipos.
 Os inteiros e os reais, decimais ou ponto flutuante (float).
 
 + Outro tipo de dado é o texto
+Conhecido como sequencia de caracteres (ou cadeia de caracteres ou String)
+
+O que aconteceria se, em seu programa, você solicitasse a idade da pessoa, e,
+o usuário digitasse "bug!"?
+O programador deve garantir que o dado informado seja do tipo esperado pelo computador
+para que ele consiga realizar a operação.
+> Inteiro idade = "deuRuim";
++ Uma vez que determinamos o tipo de uma variável, ela deve receber apenas valores desse tipo.
++ Existem casos, onde podemos converter os tipos dos dados, para outros tipos.
++ Mas isso depende da linguagem utilizada
+> Float f = Float.MAX_VALUE; 
+> f = (double) Math.PI;
+> f = (int)f++;
