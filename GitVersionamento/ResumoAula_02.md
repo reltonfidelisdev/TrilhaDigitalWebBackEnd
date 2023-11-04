@@ -15,4 +15,4 @@ Adicione a extensão GitLens
 
 * Adicione configurações globais para o seu usuário do GitHub
 git config --global user.name "Seu nome"
-git config --global user.email seu.email.do@github
+git config --global user.email "seu.email.do@github"
