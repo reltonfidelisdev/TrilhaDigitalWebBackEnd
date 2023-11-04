@@ -39,4 +39,5 @@ Imprima "Olá, " + nomePessoa; <- Saída para o monitor // Olá, Relton Lima
 * comando JUNTAR_TEXTO'Olá, ' -> nome -> saudacao
 * comando MOSTRAR saudacao
 > Olá, Relton, Bom dia!
-// Fim
+* Finalizar
+> Fim
