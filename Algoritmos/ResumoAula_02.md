@@ -40,4 +40,5 @@ Imprima "Olá, " + nomePessoa; <- Saída para o monitor // Olá, Relton Lima
 * comando MOSTRAR saudacao
 > Olá, Relton, Bom dia!
 * Finalizar
-> Fim
+> // Fim
+
