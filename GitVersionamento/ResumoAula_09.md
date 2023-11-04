@@ -20,3 +20,5 @@ Usamos ele quando queremos saber para que branch vamos mandar as alterações.
 ## Comando git checkout
 O comando git checkout testing faz o poneiro HEAD apontar para a branch testing, ou seja, 
 muda para a nova branch criada.
+
+* Adicionamos essa linha para ramificar novamente a branch main.
