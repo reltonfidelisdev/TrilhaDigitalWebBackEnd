@@ -30,3 +30,11 @@ To https://github.com/reltonfidelisdev/TrilhaDigitalWebBackEnd.git
    e8caf3a..1c59233  main -> main
 
 ## Comando git pull
+O comando git pull é usado quando queremos trazer tudo do repositório remoto
+para nossa máquina, sobrescrevendo o estado atual.
+Isso significa que, se o arquivo remoto têm uma linha de código e o local têm
+100 linhas, o remoto vai sobrascrever o local, deixando-o com apenas uma linha.
+### Por isso devemos ter cautela ao utilizar este comando.
+
+
+## Comando git fetch
