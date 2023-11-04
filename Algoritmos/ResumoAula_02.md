@@ -28,4 +28,14 @@ Imprima "Olá, " + nomePessoa; <- Saída para o monitor // Olá, Relton Lima
 > final
 
 ## Teste de uso
-# Comando                 #Saida na tela               # Armazenamento
+# Armazenamento
+> Nome = 'Reton'
+> saudacao = ', Bom dia!'
+# Saida na tela            
+> comando MOSTRAR"digite seu nome".toUperCase();
+> DIGITE SEU NOME:   
+> comando ESPERAR_DIGITACAO -> nome
+> comando JUNTAR_TEXTO'Olá, ' -> nome -> saudacao
+> comando MOSTRAR saudacao
+> Olá, Relton, Bom dia!
+> fim
