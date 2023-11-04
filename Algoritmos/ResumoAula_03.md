@@ -6,7 +6,7 @@ que o cumputador entende. Por exemplo: Inteiro i = 8; Real r = Math.PI; String s
 + O primeiro tipo de dado é o numérico
 O computador costuma separa os tipos numéricos em dois tipos.
 Os inteiros e os reais, decimais ou ponto flutuante (float).
-# tipo texto
+## tipo texto
 + Outro tipo de dado é o texto
 Conhecido como sequencia de caracteres (ou cadeia de caracteres ou String)
 
