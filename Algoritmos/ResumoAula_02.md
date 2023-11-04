@@ -28,6 +28,7 @@ Imprima "Olá, " + nomePessoa; <- Saída para o monitor // Olá, Relton Lima
 > final
 
 ## Teste de uso
+> inicio
 # Armazenamento
 > Nome = 'Reton'
 > saudacao = ', Bom dia!'
@@ -38,4 +39,4 @@ Imprima "Olá, " + nomePessoa; <- Saída para o monitor // Olá, Relton Lima
 * comando JUNTAR_TEXTO'Olá, ' -> nome -> saudacao
 * comando MOSTRAR saudacao
 > Olá, Relton, Bom dia!
-fim
+// Fim
