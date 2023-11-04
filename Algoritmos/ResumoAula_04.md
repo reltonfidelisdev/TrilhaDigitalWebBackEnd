@@ -14,7 +14,7 @@ Considere o algoritmo para avaliar a hora atual:<br>
 INICIO<br>
   var nome, mensagem: String<br>
   VAR hora: INTEIRO<br>
-  hora = system.getTimeInstance.getHora();
+  hora = system.getTimeInstance.getHora()<br>
   // se hora >= 0 && hora < 12 <br>
   mensagem = "Bom dia "<br>
   MOSTRAR mensagem, nome, hora<br>
