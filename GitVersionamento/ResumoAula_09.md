@@ -7,3 +7,6 @@ Dessa forma abrimos uma ramificação em nosso código de forma que possamos uni
 formando novamente um único código de forma que o desenvolvimento em paralelo possa acontecer evitando o máximo de conflitos.
 
 ## Comando git branch
+Use o git log e veja para onde o *pontreiro HEAD aponta.
+
+// 1aeec03 (HEAD -> testing) (origin/main, origin/HEAD) *
