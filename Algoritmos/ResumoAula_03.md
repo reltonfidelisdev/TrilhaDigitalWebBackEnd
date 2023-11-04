@@ -42,4 +42,4 @@ INICIO
   MOSTRAR resultado
 FIM
 
-> Sem as variáveis os não conseguimos garantir que o programa pode salvar os dados na memória do computador.
+> Sem as variáveis não conseguimos garantir que o programa pode salvar os dados na memória do computador.
