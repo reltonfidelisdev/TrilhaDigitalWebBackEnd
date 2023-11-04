@@ -41,4 +41,3 @@ Imprima "Olá, " + nomePessoa; <- Saída para o monitor // Olá, Relton Lima
 > Olá, Relton, Bom dia!
 * Finalizar
 > Fim
-
