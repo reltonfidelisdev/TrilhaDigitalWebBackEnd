@@ -22,3 +22,8 @@ O comando git checkout testing faz o poneiro HEAD apontar para a branch testing,
 muda para a nova branch criada.
 
 * Adicionamos essa linha para ramificar novamente a branch main.
+
+# Comando git merge
+O comando git merge é usado quando queremos juntar dois ramos, por exemplo,
+a branch testing com a main.
+Quando o merge ocorre, é criado um novo commit unindo as duas branchs.
