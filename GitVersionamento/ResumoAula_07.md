@@ -15,8 +15,8 @@ Após o desenvolvedor fazer o commit no versionamento local do Git na máquena d
 Para enviar arquivos para o repositório remoto precisamos saber para qual origem queremos enviar
 git remote //origin
 
-Além da origem para onde vamos emviar, precisamos saber para qual branch. No meu caso a branch main.
-comanto para enviar ao repositório Git remoto:
+Além da origem para onde vamos enviar, precisamos saber para qual branch. No meu caso a branch main.
+comando para enviar ao repositório Git remoto:
 git push origin main
 * Retorno do comando:
 Enumerating objects: 10, done.
