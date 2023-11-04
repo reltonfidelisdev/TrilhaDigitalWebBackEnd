@@ -5,19 +5,19 @@ de programação como C/C++, Java ou Python.
 
 Devemos pensar em algoritmos como uma sequência de passos estruturados de forma a alcançar um objetivo e resolver um problema.
 
-* Imagine que temos um objetivo: fazer um bolo.
-Existe uma lista de passo que devem ser organizados de forma a chegar ao aobjetivo.
-0 Pegar a receita
-1 Pegar todos os itens da lista de ingredientes
-2 Pegar os utencílios de cozinha
-3 Misturar os ingredientes conforme a receita
-4 Untar a forma
-5 Colocar a massa na forma
-6 Ligar o gás e acender o forno
-7 Colocar a forma no forno
-8 Aguardar o tempo de cozimento
-9 Aguardar esfriar
-10 Servir o bolo
+> Imagine que temos um objetivo: fazer um bolo.
+> Existe uma lista de passo que devem ser organizados de forma a chegar ao aobjetivo.
+* 0 Pegar a receita
+* 1 Pegar todos os itens da lista de ingredientes
+* 2 Pegar os utencílios de cozinha
+* 3 Misturar os ingredientes conforme a receita
+* 4 Untar a forma
+* 5 Colocar a massa na forma
+* 6 Ligar o gás e acender o forno
+* 7 Colocar a forma no forno
+* 8 Aguardar o tempo de cozimento
+* 9 Aguardar esfriar
+* 10 Servir o bolo
 ...
 A chance do bolo dar certo é praticamento 100% se você seguir a receita.
 ...
