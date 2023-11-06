@@ -8,7 +8,8 @@
 ## Download JDK
 Google -> java jdk
 https://www.oracle.com/java/technologies/downloads/#java17
-Procure versões LTS (Long Term Suport) Ex: Java 17 LTS
+Procure versões LTS (Long Term Suport), Suporte Extendido para aplicações comerciais.
+Ex: Java 17 LTS
 
 ## Instalação
 > Next, Next, Next, Finish.
@@ -21,8 +22,12 @@ Procure versões LTS (Long Term Suport) Ex: Java 17 LTS
 > Playgroung do Java :P // Linha de comando interativa do Java.
 ## IDE (Integrated Development Environment)
 > Ambiente de Desenvolvimento Integrado
-* InteliJ
+* IntelliJ IDEA
+> https://www.jetbrains.com/idea/
 * Eclipse
+> https://eclipseide.org
+* VS Code
+> https://code.visualstudio.com
 ## New Java Project
 ## Workspace
 ## Hello World
