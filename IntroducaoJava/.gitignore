@@ -1,5 +1,6 @@
 /.metadata/
 */.settings/
+*/.idea/
 # Compiled class file
 *.class
 *.project

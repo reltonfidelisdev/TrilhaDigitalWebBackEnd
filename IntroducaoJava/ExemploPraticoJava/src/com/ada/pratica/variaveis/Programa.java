@@ -7,8 +7,22 @@ public class Programa{
             String nome = args[0].toUpperCase();
             System.out.printf("Pratica Aula 03. Desenvolvedor: %s%n", nome);
         }else{
-            throw new ArrayIndexOutOfBoundsException("Falas ao acessar o vetor de argumentos. Array Index Out of Bounds");
+            System.err.println("Falas ao acessar o vetor de argumentos.");
+            System.err.println("Voce precisa informar seu nome!");
         }
+        
+        int a;
+        int b = 2;
+        a = 3;
+        int soma = a + b;
+        System.out.printf("Soma de a + b = %");
+        int subtracao = a - b;
+        int multiplicacao = a * b;
+        int divisao = a / b;
+        
+        
+        System.out.println("Material Oficial Java Oracle:");
+        System.out.println("https://docs.oracle.com/javase/tutorial/reallybigindex.html");
         System.out.println("Fim");
     }
 }
