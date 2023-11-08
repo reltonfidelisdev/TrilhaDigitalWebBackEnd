@@ -7,4 +7,14 @@ public class Animals {
 	int altura;
 	double peso;
 	int tamanhoRabo;
+	
+	public void comer() {};
+	
+	public void latir() {
+		System.out.println("AU AU");
+	}
+	
+	public String pegar() {
+		return "Bolinha";
+	}
 }

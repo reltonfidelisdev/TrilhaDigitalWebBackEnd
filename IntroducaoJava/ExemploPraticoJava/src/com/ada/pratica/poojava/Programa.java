@@ -11,7 +11,8 @@ public class Programa {
 		cachorroUm.peso			= 5.5;
 		cachorroUm.tamanhoRabo	= 5;
 		
-		System.out.println(cachorroUm);
+		cachorroUm.latir();
+		
 	}
 
 }
