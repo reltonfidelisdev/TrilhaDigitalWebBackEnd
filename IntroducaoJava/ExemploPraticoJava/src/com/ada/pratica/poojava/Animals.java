@@ -15,6 +15,9 @@ public class Animals {
 	}
 
 	public void setNome(String nome) {
+		if (nome == "lily") {
+			this.nome = "rex";
+		};
 		this.nome = nome;
 	}
 
