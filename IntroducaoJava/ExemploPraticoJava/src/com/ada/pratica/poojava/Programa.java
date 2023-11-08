@@ -16,6 +16,7 @@ public class Programa {
 		System.out.printf("%n O cachorro está %s.", cachorroUm.interagir("carinho")); // O cachorro está feliz.
 		System.out.printf("%n O cachorro está %s.", cachorroUm.interagir("")); // O cachorro está neutro.
 		System.out.printf("%n O cachorro está %s.", cachorroUm.interagir("vai dormir")); //  O cachorro está Bravo.
+		System.out.printf("%n O cachorro está %s.", cachorroUm.interagir("pisar na patinha")); //  O cachorro está Bravo.
 	}
 
 }
