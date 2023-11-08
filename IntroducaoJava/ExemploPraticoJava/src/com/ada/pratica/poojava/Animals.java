@@ -12,7 +12,7 @@ public class Animals {
 	public void comer() {};
 	
 	public void latir() {
-		System.out.println("AU AU");
+		System.out.println(" AU AU");
 	}
 	
 	public String pegar() {
@@ -24,6 +24,9 @@ public class Animals {
 			return this.estadoEapirito = "feliz";
 		}else if(acao.equals("vai dormir")){
 			this.estadoEapirito = "Bravo";
+		}else if(acao.equals("pisar na patinha")){
+			this.estadoEapirito = "Triste";
+			latir();
 		}
 		else {
 			this.estadoEapirito = "neutro";
