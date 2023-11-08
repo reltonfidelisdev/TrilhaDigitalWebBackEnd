@@ -2,11 +2,12 @@ package com.ada.pratica.poojava;
 
 public class Animals {
 
-	String nome;
-	String cor;
-	int altura;
-	double peso;
-	int tamanhoRabo;
+	private String nome;
+	private String cor;
+	private int altura;
+	private double peso;
+	private int tamanhoRabo;
+	
 	public String estadoEapirito;
 	
 	public void comer() {};
