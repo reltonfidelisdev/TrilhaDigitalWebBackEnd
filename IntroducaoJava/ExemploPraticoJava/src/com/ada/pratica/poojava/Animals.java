@@ -26,7 +26,7 @@ public class Animals {
 		break;
 		case "vai dormir" : this.estadoEapirito = "Bravo";
 		break;
-		case "pisar na patinha" : this.estadoEapirito = "feliz";
+		case "pisar na patinha" : this.estadoEapirito = "triste";
 		break;
 		default : this.estadoEapirito = "neutro";
 		}
