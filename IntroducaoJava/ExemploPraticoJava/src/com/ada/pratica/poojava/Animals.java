@@ -20,17 +20,17 @@ public class Animals {
 	}
 	
 	public String interagir(String acao) {
-		if (acao.equals("carinho")) {
-			return this.estadoEapirito = "feliz";
-		}else if(acao.equals("vai dormir")){
-			this.estadoEapirito = "Bravo";
-		}else if(acao.equals("pisar na patinha")){
-			this.estadoEapirito = "Triste";
-			latir();
+		
+		switch(acao){
+		case "carinho" : this.estadoEapirito = "feliz";
+		break;
+		case "vai dormir" : this.estadoEapirito = "Bravo";
+		break;
+		case "pisar na patinha" : this.estadoEapirito = "feliz";
+		break;
+		default : this.estadoEapirito = "neutro";
 		}
-		else {
-			this.estadoEapirito = "neutro";
-		}
+		
 		return estadoEapirito;
 	}
 }
