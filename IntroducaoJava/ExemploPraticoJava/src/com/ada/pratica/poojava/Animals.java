@@ -2,6 +2,7 @@ package com.ada.pratica.poojava;
 
 public class Animals {
 
+	// Fields
 	private String nome;
 	private String cor;
 	private int altura;
@@ -9,16 +10,33 @@ public class Animals {
 	private int tamanhoRabo;
 	
 	
+	// Constructors
+	public Animals() {
+		// Default constructor
+	}
 	
+	public Animals(String nome, String cor, int altura, double peso, int tamanhoRabo, String estadoEapirito) {
+		// Constructor with default arguments
+		this.nome = nome;
+		this.cor = cor;
+		this.altura = altura;
+		this.peso = peso;
+		this.tamanhoRabo = tamanhoRabo;
+		this.estadoEapirito = estadoEapirito;
+	}
+	
+
+	// Métodos
 	public String getNome() {
 		return nome;
 	}
 
+
 	public void setNome(String nome) {
+		this.nome = nome;
 		if (nome == "lily") {
 			this.nome = "rex";
 		};
-		this.nome = nome;
 	}
 
 	public String getCor() {
