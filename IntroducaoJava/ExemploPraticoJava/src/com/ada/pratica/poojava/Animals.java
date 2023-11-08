@@ -34,7 +34,7 @@ public class Animals {
 
 	public void setNome(String nome) {
 		this.nome = nome;
-		if (nome == "lily") {
+		if (nome.equals("lily")) {
 			this.nome = "rex";
 		};
 	}
