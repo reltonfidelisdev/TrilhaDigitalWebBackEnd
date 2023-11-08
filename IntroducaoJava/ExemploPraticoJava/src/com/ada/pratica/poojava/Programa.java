@@ -12,7 +12,7 @@ public class Programa {
 		cachorroUm.tamanhoRabo	= 5;
 		
 		cachorroUm.latir();
-		
+		cachorroUm.pegar();
 	}
 
 }
