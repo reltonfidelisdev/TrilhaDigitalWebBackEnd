@@ -7,6 +7,7 @@ public class Animals {
 	int altura;
 	double peso;
 	int tamanhoRabo;
+	public String estadoEapirito;
 	
 	public void comer() {};
 	
@@ -16,5 +17,17 @@ public class Animals {
 	
 	public String pegar() {
 		return "Bolinha";
+	}
+	
+	public String interagir(String acao) {
+		if (acao.equals("carinho")) {
+			return this.estadoEapirito = "feliz";
+		}else if(acao.equals("vai dormir")){
+			this.estadoEapirito = "Bravo";
+		}
+		else {
+			this.estadoEapirito = "neutro";
+		}
+		return estadoEapirito;
 	}
 }
