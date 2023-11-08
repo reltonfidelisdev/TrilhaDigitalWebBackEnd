@@ -79,6 +79,14 @@ public class Animals {
 		this.estadoEapirito = estadoEapirito;
 	}
 
+	
+	@Override
+	public String toString() {
+		return "Animals [nome=" + nome + ", cor=" + cor + ", altura=" + altura + ", peso=" + peso + ", tamanhoRabo="
+				+ tamanhoRabo + ", estadoEapirito=" + estadoEapirito + "]";
+	}
+
+
 	public String estadoEapirito;
 	
 	public void comer() {};

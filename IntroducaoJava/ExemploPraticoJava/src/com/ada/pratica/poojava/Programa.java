@@ -19,13 +19,13 @@ public class Programa {
 		System.out.printf("%n O cachorro está %s.", cachorroUm.interagir("pisar na patinha")); //  O cachorro está triste.
 		
 		Animals cachorroDois = new Animals("Rex","Branco", 7, 3, 4, "");
-		System.out.printf("%n cachorro#Um: %s",cachorroUm);
-		System.out.println("\n cachorro#Dois: " + cachorroDois);
+		System.out.printf("%n cachorro#Um: %s",cachorroUm.toString());
+		System.out.println("\n cachorro#Dois: " + cachorroDois.toString());
 		cachorroDois = cachorroUm;
 		// cachorroDois point to cachorroUm
 		// the reference to the cashorroDois is lost
 		// the garbage collector its in action
-		System.out.printf("cachorro#Dois: %s",cachorroDois);
+		System.out.printf("cachorro#Dois: %s",cachorroDois.toString());
 	}
 
 }
