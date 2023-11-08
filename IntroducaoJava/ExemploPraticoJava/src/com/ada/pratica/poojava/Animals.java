@@ -8,6 +8,56 @@ public class Animals {
 	private double peso;
 	private int tamanhoRabo;
 	
+	
+	
+	public String getNome() {
+		return nome;
+	}
+
+	public void setNome(String nome) {
+		this.nome = nome;
+	}
+
+	public String getCor() {
+		return cor;
+	}
+
+	public void setCor(String cor) {
+		this.cor = cor;
+	}
+
+	public int getAltura() {
+		return altura;
+	}
+
+	public void setAltura(int altura) {
+		this.altura = altura;
+	}
+
+	public double getPeso() {
+		return peso;
+	}
+
+	public void setPeso(double peso) {
+		this.peso = peso;
+	}
+
+	public int getTamanhoRabo() {
+		return tamanhoRabo;
+	}
+
+	public void setTamanhoRabo(int tamanhoRabo) {
+		this.tamanhoRabo = tamanhoRabo;
+	}
+
+	public String getEstadoEapirito() {
+		return estadoEapirito;
+	}
+
+	public void setEstadoEapirito(String estadoEapirito) {
+		this.estadoEapirito = estadoEapirito;
+	}
+
 	public String estadoEapirito;
 	
 	public void comer() {};
