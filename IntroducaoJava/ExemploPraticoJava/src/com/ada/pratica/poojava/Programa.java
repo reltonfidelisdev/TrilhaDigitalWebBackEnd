@@ -5,13 +5,13 @@ public class Programa {
 	public static void main(String[] args) {
 
 		Animals cachorroUm = new Animals();
-		cachorroUm.nome			= "Puppy";
-		cachorroUm.cor			= "Marron";
-		cachorroUm.altura		= 25;
-		cachorroUm.peso			= 5.5;
-		cachorroUm.tamanhoRabo	= 5;
+		cachorroUm.setNome("lily");
+		cachorroUm.setCor("Caralemo");
+		cachorroUm.setAltura(5);
+		cachorroUm.setPeso(2.5);
+		cachorroUm.setTamanhoRabo(5);
 		
-		cachorroUm.latir(); // AU AU
+		System.out.printf("%n O nome do animal é %s.", cachorroUm.getNome()); // rex
 		System.out.printf("%n O cachorro pegou uma %s.", cachorroUm.pegar()); // O cachorro pegou uma Bolinha.
 		System.out.printf("%n O cachorro está %s.", cachorroUm.interagir("carinho")); // O cachorro está feliz.
 		System.out.printf("%n O cachorro está %s.", cachorroUm.interagir("")); // O cachorro está neutro.
