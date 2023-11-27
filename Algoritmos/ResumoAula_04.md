@@ -1,6 +1,6 @@
 # 04. Decisão
 
-Decições são representadas nos algoritmos como desvio de fluxo.
+Decisões são representadas nos algoritmos como desvio de fluxo.
 Imagine que precisamos determinar se uma pessoa pode tirar o título de eleitor.
 Ora, é preciso ter idade maior ou igual a 16 anos para isso.
 Isso constitui uma rega que desvia o fluxo de execução do programa.
