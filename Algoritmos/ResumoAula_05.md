@@ -26,7 +26,7 @@ Também os loops podem ser do tipo onde temos tipos predefinidos de valores s se
 Ex: switch/desvio
 Inicio
 VAR x = (int)Math.PI
-devio(x){
+desvio(x){
     caso 1 : imprima "Desvio caso x == 1"
     pare
     caso 2 : imprima "Desvio caso x == 2"
