@@ -18,7 +18,7 @@ INICIO principal
 
     DEFINIR -> numeroAtual
 
-    ENQUANTO(QUANTIDADE_ITENS(listaNumetos) MENORE QUE 20) faca
+    ENQUANTO(QUANTIDADE_ITENS(listaNumetos) MENOR QUE 20) faca
         SE (RESTO(DIVISAO(numeroAtual, 2)) IGUAL A 0) OU (RESTO(DIVISAO(numeroAtual, 5)) IGUAL A 0)
             ADICIONAR_ITEM numeroAtual, listaNumeros
         FIM SE
